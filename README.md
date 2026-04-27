@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Building **Skill Ladder** — an AI job recommendation platform using LangChain + spaCy + FastAPI
+- 🔭 **Skill Ladder** — an AI job recommendation platform using LangChain + spaCy + FastAPI
 - 📄 **IEEE Published** researcher in AI/ML
 - 🏆 **1st Place** — KARE Open Source Hackathon
 - 🎓 B.Tech CSE @ Kalasalingam Academy of Research and Education (2022–2026)
@@ -64,8 +64,6 @@
 |---------|-------------|-------|
 | [**Skill Ladder**](https://github.com/linga-1221/skillladder) | AI-powered job recommendation platform with NLP-based resume parsing and vector similarity matching | React · FastAPI · LangChain · spaCy · MongoDB |
 | [**AI Bias Reduction in Hiring**](https://github.com/linga-1221/AI-for-reducing-Bias-in-hiring) | Detects biased language in JDs, anonymizes resumes, ranks candidates on skills | Python · Flask · React |
-| [**SHL Assessment Recommender**](https://github.com/linga-1221/SHL-assesment-reccomendation-engine) | RAG-based system that recommends SHL assessments from natural language queries | Python · LangChain · RAG |
-| [**PDF Chatbot (Gemini)**](https://github.com/linga-1221/-PDF-Chatbot-using-Gemini-Flash-1.5) | RAG chatbot that lets users query any uploaded PDF using Gemini Flash 1.5 | Python · Gemini · RAG |
 
 ---
 
