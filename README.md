@@ -20,7 +20,7 @@
 - 🔭 Building **agentic LLM systems** with honest evaluation harnesses and failure-mode analysis
 - 🚀 **Skill Ladder** — live AI career platform built with FastAPI, spaCy, vector similarity (skillladder.vercel.app)
 - 🤖 **Agent Eval Lab** — multi-agent PyTest generator with golden-set scoring and CI
-- 📄 **IEEE Published** researcher in AI/ML
+- 📄 **Springer Nature Published** researcher in AI/ML (SmartCom 2026)
 - 🏆 **1st Place** — KARE Open Source Hackathon
 - 🎓 B.Tech CSE @ Kalasalingam Academy of Research and Education (2022–2026)
 - 💬 Ask me about **multi-agent systems, RAG pipelines, eval harnesses, FastAPI, or React**
@@ -38,14 +38,13 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 **Frontend**
@@ -76,8 +75,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Agent Eval Lab**](https://github.com/linga-1221/agent-eval-lab) | Multi-agent system that generates PyTest tests for any Python function, with an honest eval harness that scores AST-level quality and tracks LLM failure modes | Python · LangChain · Groq · Pydantic · PyTest · Docker |
-| [**Skill Ladder**](https://github.com/linga-1221/skillladder) | Live AI-powered job recommendation platform with NLP resume parsing and vector similarity matching · IEEE Published | React · FastAPI · spaCy · Firebase · Vercel |
-| [**AI Bias Reduction in Hiring**](https://github.com/linga-1221/AI-for-reducing-Bias-in-hiring) | Detects biased language in JDs, anonymizes resumes, ranks candidates on skills with confusion-matrix analytics | Python · Flask · scikit-learn · NLTK |
+| [**Skill Ladder**](https://github.com/linga-1221/skillladder) | Live AI-powered job recommendation platform with NLP resume parsing and vector similarity matching · Springer Nature Published | React · FastAPI · spaCy · Firebase · Vercel |
+| [**AI Bias Reduction in Hiring**](https://github.com/linga-1221/AI-for-reducing-Bias-in-hiring) | Detects biased language in JDs, anonymises resumes, ranks candidates on skills with confusion-matrix analytics | Python · Flask · scikit-learn · NLTK |
 
 ---
 
