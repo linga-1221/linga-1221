@@ -1,19 +1,9 @@
-<h1 align="center">Nagalinga Kuchivaripalli</h1>
-
-<h3 align="center">
-AI Engineer • Full-Stack Developer 
-</h3>
+<h1 align="center">Hi, I'm Nagalinga 👋</h1>
+<h3 align="center">AI Engineer • Full-Stack Developer • Building Intelligent Software Systems</h3>
 
 <p align="center">
-Building AI-powered products, intelligent systems, and scalable software solutions.
-</p>
-
-<p align="center">
-  <a href="https://linga-dev.vercel.app">
+  <a href="https://nagalinga-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/linga-1221">
-    <img src="https://img.shields.io/badge/GitHub-linga--1221-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/nagalinga-k">
     <img src="https://img.shields.io/badge/LinkedIn-Nagalinga_K-0077B5?style=for-the-badge&logo=linkedin" />
@@ -25,20 +15,6 @@ Building AI-powered products, intelligent systems, and scalable software solutio
 
 
 
-<h1 align="center">Hi, I'm Nagalinga 👋</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Building Intelligent Software Systems</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nagalinga-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nagalinga_K-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nagakuchivaripalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linga-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
 
 ---
 
@@ -131,13 +107,12 @@ Git • GitHub • Docker • Linux • GitHub Actions • Postman • Vercel �
 * 📄 Springer Nature Research Publication
 * 🤖 Built 3+ AI Products
 * 📜 5+ Professional Certifications
-* 🎓 Oracle Certified Foundations Associate
 
 ---
 
 ## 📫 Connect With Me
 
-* Portfolio: https://linga-dev.vercel.app
+* Portfolio: https://nagalinga-dev.vercel.app/
 * LinkedIn: https://linkedin.com/in/nagalinga-k
 * GitHub: https://github.com/linga-1221
 * Email: [nagakuchivaripalli@gmail.com](mailto:nagakuchivaripalli@gmail.com)
