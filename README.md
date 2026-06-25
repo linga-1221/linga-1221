@@ -69,11 +69,10 @@ DevOps      Docker · GitHub Actions · Vercel · Render · Linux
 
 ## Connect
 
-- Portfolio: nagalinga-k.vercel.app
-- LinkedIn: linkedin.com/in/nagalinga-k
-- GitHub: github.com/linga-1221
+- Portfolio: [nagalinga-k.vercel.app](https://nagalinga-k.vercel.app/)
+- LinkedIn: [linkedin.com/in/nagalinga-k](https://www.linkedin.com/in/nagalinga-k )
+- GitHub: [github.com/linga-1221](https://github.com/linga-1221)
 - Email: nagakuchivaripalli@gmail.com
-
 ---
 
 <p align="right">
