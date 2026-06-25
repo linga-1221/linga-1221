@@ -1,125 +1,81 @@
-<h1 align="center">Hi, I'm Nagalinga 👋</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Building Intelligent Software Systems</h3>
+<h1 align="center">Nagalinga K</h1>
+<h3 align="center">AI Engineer · Full-Stack Developer · Open Source Builder</h3>
 
 <p align="center">
-  <a href="https://nagalinga-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://linkedin.com/in/nagalinga-k">
-    <img src="https://img.shields.io/badge/LinkedIn-Nagalinga_K-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nagakuchivaripalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%20%E2%86%92%20Bangalore-1D9E75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-0F9E72?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%C2%B7%20AI%2FML%20%C2%B7%20KARE%20'26-gray?style=flat-square" />
 </p>
 
+---
 
+## About
 
+I build production-grade AI systems and full-stack applications — from multi-agent pipelines and semantic search infrastructure to React frontends. Currently targeting **SDE, AI Engineer, and Python backend** roles in Bangalore or Hyderabad.
+
+- 🏆 1st Place — KARE Open Source Hackathon (200+ teams)
+- 📄 Published — Springer Nature SmartCom 2026
+- 🌐 Portfolio: [nagalinga-k.vercel.app](https://nagalinga-k.vercel.app)
 
 ---
 
-## 🚀 About Me
+## Featured Projects
+### Redrob Candidate Ranker
+Multi-signal ranking system for 100K+ candidates — skill match, career depth, behavioral signals, and location. Built for the Redrob Data & AI Challenge. Ranked 99,954 profiles in 95 seconds with honeypot detection.
+**Stack:** Python · Pandas · NumPy · Streamlit
+→ [Live Demo](https://redrob-thedataandaichallenge.streamlit.app/) · [GitHub](https://github.com/linga-1221/the_data_and_ai_challenge)
 
-* 🎓 B.Tech Computer Science Engineering Graduate
-* 🤖 Passionate about AI Engineering, Backend Systems, and Full-Stack Development
-* 🏆 1st Place Winner — KARE Open Source Hackathon
-* 📄 Springer Nature Research Publication Author
-* 🌐 Built and deployed multiple AI-powered products from scratch
-* 🔍 Actively seeking Software Engineering, AI Engineering, Backend Development, and Full-Stack opportunities
 
----
+### Skill Ladder
+AI career platform with ATS scoring, mock assessments, and job matching. 50+ active users.
+**Stack:** FastAPI · React · Firebase · Docker · PostgreSQL
+→ [Live](https://skillladder.vercel.app) · [GitHub](https://github.com/linga-1221/skill-ladder)
 
-## 💡 Featured Projects
+### Agent Eval Lab
+Multi-agent LLM framework — generator, reviewer, and judge agents for automated PyTest generation with semantic evaluation harness.
+**Stack:** Python · LangChain · Groq · Pydantic · GitHub Actions
+→ [GitHub](https://github.com/linga-1221/agent-eval-lab)
 
-### 🚀 Skill Ladder
-
-AI-powered career development platform featuring:
-
-* Resume analysis and ATS scoring
-* Personalized career guidance
-* Mock assessments
-* AI-driven job matching
-* Role-based dashboards
-
-**Tech:** React • FastAPI • PostgreSQL • Firebase • Docker
+### FairHire AI
+Bias-aware hiring platform with resume anonymization, explainable candidate ranking, and analytics dashboard.
+**Stack:** Python · Flask · Gemini AI · FAISS · SQLite
+→ [Live](https://ai-for-reducing-bias-in-hiring.vercel.app)
 
 ---
 
-### 🤖 Agent Eval Lab
+## Stack
 
-Multi-agent evaluation framework for automated PyTest generation.
-
-* Generator Agent
-* Reviewer Agent
-* Judge Agent
-* Failure mode detection
-* Semantic evaluation harness
-
-**Tech:** Python • LangChain • Groq • Pydantic • PyTest
-
----
-
-### ⚖️ FairHire AI
-
-Bias-aware recruitment intelligence platform.
-
-* Resume anonymization
-* Hiring bias detection
-* Candidate ranking
-* Interactive analytics dashboard
-* Explainable AI insights
-
-**Tech:** Python • Flask • Gemini AI • NLP • SQLite
+```
+Languages   Python · Java · JavaScript · SQL
+AI/ML       LLMs · LangChain · RAG · Sentence Transformers · FAISS · Prompt Engineering
+Backend     FastAPI · Flask · REST APIs
+Frontend    React · Tailwind CSS · HTML/CSS
+Databases   PostgreSQL · MySQL · MongoDB · Firebase · Supabase
+DevOps      Docker · GitHub Actions · Vercel · Render · Linux
+```
 
 ---
 
-## 🛠 Tech Stack
+## Achievements
 
-### Programming
-
-Python • Java • JavaScript • SQL
-
-### AI & Machine Learning
-
-Generative AI • LLMs • NLP • LangChain • RAG • Prompt Engineering • Agentic AI • Machine Learning • Deep Learning
-
-### Backend Engineering
-
-FastAPI • Flask • REST APIs • Authentication • API Design
-
-### Frontend Development
-
-React • HTML • CSS • Tailwind CSS • Bootstrap
-
-### Databases
-
-MySQL • MongoDB • Firebase • Supabase • PostgreSQL
-
-### DevOps & Tools
-
-Git • GitHub • Docker • Linux • GitHub Actions • Postman • Vercel • VS Code
+| | |
+|---|---|
+| 🏆 | **1st Place — KARE Open Source Hackathon 2024** · 200+ teams · Skill Ladder |
+| 📄 | **Springer Nature SmartCom 2026** · Research publication |
+| 🤖 | **3+ AI products in production** · 50+ active users |
+| 📜 | **5+ certifications** · Infosys Springboard · CodeChef · TCS NQT |
 
 ---
 
-## 🏅 Achievements
+## Connect
 
-* 🏆 1st Place — KARE Open Source Hackathon
-* 📄 Springer Nature Research Publication
-* 🤖 Built 3+ AI Products
-* 📜 5+ Professional Certifications
-
----
-
-## 📫 Connect With Me
-
-* Portfolio: https://nagalinga-dev.vercel.app/
-* LinkedIn: https://linkedin.com/in/nagalinga-k
-* GitHub: https://github.com/linga-1221
-* Email: [nagakuchivaripalli@gmail.com](mailto:nagakuchivaripalli@gmail.com)
+- Portfolio: nagalinga-k.vercel.app
+- LinkedIn: linkedin.com/in/nagalinga-k
+- GitHub: github.com/linga-1221
+- Email: nagakuchivaripalli@gmail.com
 
 ---
 
-⭐ Building AI products, intelligent systems, and scalable software solutions.
-
-  <img src="https://komarev.com/ghpvc/?username=linga-1221&color=teal&style=flat" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=linga-1221&color=1D9E75&style=flat-square" />
 </p>
