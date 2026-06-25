@@ -15,7 +15,7 @@ I build production-grade AI systems and full-stack applications — from multi-a
 
 - 🏆 1st Place — KARE Open Source Hackathon (200+ teams)
 - 📄 Published — Springer Nature SmartCom 2026
-- 🌐 Portfolio: [nagalinga-k.vercel.app](https://nagalinga-k.vercel.app)
+- 🌐 Portfolio: [nagalinga-k](https://nagalinga-k.vercel.app)
 
 ---
 
